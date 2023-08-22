@@ -4,7 +4,7 @@ Alô, alô! Me chamo Ébert Ian, atualmente tenho 20 anos, moro no estado do Pia
 
 Comecei meu interesse na área da tecnologia desde que era pequeno, principalmente em informática, e em 2020 tive o contato inicial em programação quando me matriculei no curso de Análise e Desenvolvimento de Sistemas do IFPI. 
 
-Desde então, busco desenvolver o conhecimento nesse ramo de programação, contando tanto com o que aprendi da faculdade e com o vasto conteúdo que a internet disponibiliza.
+Desde então, busco desenvolver o meu conhecimento nesse ramo de programação, contando tanto com o que aprendi da faculdade e com o vasto conteúdo que a internet disponibiliza.
 
 
 
