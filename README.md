@@ -1,4 +1,4 @@
-# Perfil de Ébert
+# Saudações, nobre usuário!
 
 Alô, alô! Me chamo Ébert Ian, atualmente tenho 20 anos, moro no estado do Piauí, em solo brasileiro. Amo jogar, ver séries de gameplays no YouTube, memes em redes sociais e a série de anime e mangá JoJo's Bizarre Adventure.
 
