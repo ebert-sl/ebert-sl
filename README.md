@@ -27,6 +27,5 @@ Desde então, busco desenvolver o meu conhecimento nesse ramo de programação, 
 
 ## Meus Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebert-sl&theme=transparent&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebert-sl&layout=compact&bg_color=000&border_color=4727CD&title_color=d1b7f2&text_color=FFF)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebert-sl&theme=transparent&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebert-sl&layout=compact&bg_color=000&border_color=4727CD&title_color=d1b7f2&text_color=FFF) |
+| :-: | :-: |
