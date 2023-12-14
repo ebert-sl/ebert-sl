@@ -6,13 +6,6 @@ Comecei meu interesse na área da tecnologia desde que era pequeno, principalmen
 
 Desde então, busco desenvolver o meu conhecimento nesse ramo de programação, contando tanto com o que aprendi da faculdade e com o vasto conteúdo que a internet disponibiliza.
 
-
-
-## Conecte-se comigo
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebert-sl/)
-[![](https://img.shields.io/badge/Meu%20Perfil%20na%20DIO-475ebe?style=for-the-badge)](https://www.dio.me/users/ebertis2002)
-[![](https://img.shields.io/badge/Meu%20Perfil%20no%20FCC-1b1b32?style=for-the-badge)](https://www.freecodecamp.org/the_lsie)
-
 ## Habilidades
 ![](https://img.shields.io/badge/HTML-f16529?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-35a9db?&style=for-the-badge&logo=css3&logoColor=white)
