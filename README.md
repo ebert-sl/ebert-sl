@@ -1,5 +1,3 @@
-# Saudações, nobre usuário!
-
 Alô, alô! Me chamo Ébert Ian, atualmente tenho 21 anos, moro no estado do Piauí, em solo brasileiro. Amo jogar, ver séries de gameplays no YouTube, memes em redes sociais e a série de anime e mangá JoJo's Bizarre Adventure.
 
 Comecei meu interesse na área da tecnologia desde que era pequeno, principalmente em informática, e em 2020 tive o contato inicial em programação quando me matriculei no curso de Análise e Desenvolvimento de Sistemas do IFPI. 
