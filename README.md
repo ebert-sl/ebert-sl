@@ -1,8 +1,8 @@
-Alô, alô! Me chamo Ébert Ian, atualmente tenho 21 anos, moro no estado do Piauí, em solo brasileiro. Amo jogar, ver séries de gameplays no YouTube, memes em redes sociais e a série de anime e mangá JoJo's Bizarre Adventure.
+Alô, alô! Me chamo Ébert Ian, atualmente tenho 21 anos, moro no estado do Piauí, em solo brasileiro. Sou estudante de Análise e Desenvolvimento de Sistemas no IFPI e busco iniciar minha carreira no desenvolvimento front-end e web.
 
-Comecei meu interesse na área da tecnologia desde que era pequeno, principalmente em informática, e em 2020 tive o contato inicial em programação quando me matriculei no curso de Análise e Desenvolvimento de Sistemas do IFPI. 
+Este Github serve como portfólio de projetos e atividades de faculdade e também de cursos extracurriculares.
 
-Desde então, busco desenvolver o meu conhecimento nesse ramo de programação, contando tanto com o que aprendi da faculdade e com o vasto conteúdo que a internet disponibiliza.
+Segue meu LinkedIn para contato e/ou feedback: https://www.linkedin.com/in/ebertian
 
 ## Habilidades
 ![](https://img.shields.io/badge/HTML-f16529?style=for-the-badge&logo=html5&logoColor=white)
