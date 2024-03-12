@@ -12,8 +12,3 @@ Segue meu LinkedIn para contato e/ou feedback: https://www.linkedin.com/in/ebert
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Meus Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebert-sl&theme=transparent&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebert-sl&layout=compact&bg_color=000&border_color=4727CD&title_color=d1b7f2&text_color=FFF) |
-| :-: | :-: |
