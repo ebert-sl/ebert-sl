@@ -3,6 +3,7 @@ Alô, alô! Me chamo Ébert Ian, atualmente tenho 21 anos, moro no estado do Pia
 Este Github serve como portfólio de projetos e atividades de faculdade e também de cursos extracurriculares.
 
 Segue meu LinkedIn para contato e/ou feedback: https://www.linkedin.com/in/ebertian
+
 Caso deseja ver o site do meu Portfólio: https://ebert-sl.github.io/portfolio/
 
 ## Principais Habilidades
