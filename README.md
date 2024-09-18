@@ -1,4 +1,4 @@
-Alô, alô! Me chamo Ébert Ian, atualmente tenho 22 anos, moro no estado do Piauí, em solo brasileiro. Sou estudante de Análise e Desenvolvimento de Sistemas no IFPI e busco iniciar minha carreira no desenvolvimento front-end e web. Atualmente estagio como Suporte Técnico de TI.
+Alô, alô! Me chamo Ébert Ian, atualmente tenho 22 anos, moro no estado do Piauí, em solo brasileiro. Sou estudante de Análise e Desenvolvimento de Sistemas no IFPI e busco iniciar minha carreira no desenvolvimento front-end e web. Atualmente estagio como Suporte Técnico de TI no MPT.
 
 Este Github serve como portfólio de projetos e atividades de faculdade e também de cursos extracurriculares.
 
